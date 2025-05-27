@@ -1,0 +1,17 @@
+{
+  "name": "JueJinBookWebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve ./doc_build",
+    "update":"git add . && git commit -m 'update' && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.1",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
