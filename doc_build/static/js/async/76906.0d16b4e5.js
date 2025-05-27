@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjue_jin_book_press=self.webpackChunkjue_jin_book_press||[]).push([["76906"],{327506:function(e,s,c){e.exports=c.p+"static/image/9d5cef933e8c3367a28145ebd8d7efb4.e48aedc6.webp"}}]);
